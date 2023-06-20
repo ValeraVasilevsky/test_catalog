@@ -5,5 +5,6 @@ export const pageNames = {
     children: {
       productsList: 'products-list'
     }
-  }
+  },
+  ERROR: 'error'
 };
